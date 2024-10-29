@@ -41,5 +41,5 @@ class SolutionCaller:
         [2,3,4,6,8,16]
     ]
     for i in range(len(json)):
-        print('The longest Subsequence will be : ', sol.longestSquareStreak(json[i]))
+        print('The longest Square Subsequence will be : ', sol.longestSquareStreak(json[i]))
 
