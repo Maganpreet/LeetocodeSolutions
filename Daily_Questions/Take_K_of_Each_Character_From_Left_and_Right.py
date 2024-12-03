@@ -30,5 +30,3 @@ class SolutionHelper:
 
     for string, k in inp:
         print(f"Amount of characters that can be taken from both sides in minimum amount of time {(string)}: ", s.takeCharacters(string, k))
-
-
